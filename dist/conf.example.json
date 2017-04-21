@@ -9,13 +9,15 @@
     "defaultLanguage": "en",
     "themes": ["taiga"],
     "defaultTheme": "taiga",
-    "publicRegisterEnabled": true,
-    "feedbackEnabled": true,
+    "publicRegisterEnabled": false,
+    "feedbackEnabled": false,
     "privacyPolicyUrl": null,
     "termsOfServiceUrl": null,
     "maxUploadFileSize": null,
     "contribPlugins": [],
     "tribeHost": null,
+    "gravatar": false,
     "importers": [],
-    "gravatar": true
+    "supportUrl": "https://tree.taiga.io/support/ssssss",
+    "yapUrl": "http://yap.dev"
 }
